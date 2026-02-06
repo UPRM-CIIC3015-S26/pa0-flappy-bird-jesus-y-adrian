@@ -38,7 +38,7 @@ bird_y = 300
 bird_velocity = 0
 # TODO 1: Tweaking the physics
 # Looks like the player is falling too quickly not giving a change to flap it's wing, maybe tweak around with the value of this variable
-gravity = 9.81
+gravity = 1
 jump = -10
 # Pipe Variables -->
 pipe_x = 400
@@ -51,7 +51,7 @@ pipe_height = random.randint(100, 400)
 # TODO 2.2: The too fast problem
 # The pipes are moving way too fast! Play around with the pipe_speed variable until you find a good
 # speed for the player to play in!
-pipe_speed = 20
+pipe_speed = 5
 
 score = 0
 game_over = False
@@ -79,7 +79,7 @@ while running:
                     # After the bird crashes with a pipe the when spawning back the player it doesn't appear.
                     # It is your job to find why this is happening! (Hint: What variable stores the y coordinates
                     # of the bird)
-                    bird_velocity = 0
+                    bird_velocity = -16
                     pipe_x = 400
                     score = 0
                     game_over = False
