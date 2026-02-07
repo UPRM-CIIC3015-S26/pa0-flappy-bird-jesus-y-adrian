@@ -63,7 +63,7 @@ running = True
 while running:
     # TODO 6: Changing the name!
     # D'oh! This is not yout name isn't follow the detailed instructions on the PDF to complete this task.
-    name = "Homer Simpson"
+    name = "Jesus Colon"
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
