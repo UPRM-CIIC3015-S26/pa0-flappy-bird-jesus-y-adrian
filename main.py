@@ -9,13 +9,15 @@ some of the game mechanics.
 '''
 # Setup the screen -->
 screen = pygame.display.set_mode((400, 600))
-pygame.display.set_caption("Flappy Bird")
+pygame.display.set_caption("Mario Bros")
 
 # Colors -->
 # NOTE: This is in the RGB (Red, Green, Blue) format
 WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)
 BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+YELLOW = (255, 255, 0)
 PLAYER = (255, 255, 255)
 
 # Font Size -->
@@ -116,12 +118,12 @@ while running:
     pygame.draw.rect(screen, PLAYER, (bird_x, bird_y, 30, 30)) # Drawing the bird (You don't need to touch this line!)
     pygame.draw.rect(screen, GREEN, (pipe_x, 0, pipe_width, pipe_height))
     pygame.draw.rect(screen, GREEN, (pipe_x, pipe_height + pipe_gap, pipe_width, 600))
-    score_text = small_font.render(str(score), True, WHITE)
+    score_text = small_font.render(str(score), True, YELLOW)
     screen.blit(score_text, (score_x, score_y))
 
     if game_started == False: # Start UI -->
-        title_text = big_font.render("Flappy Bird", True, WHITE)
-        instruction_text = small_font.render("Press space bar to flap!", True, WHITE)
+        title_text = big_font.render("Mario  Fly", True, RED)
+        instruction_text = small_font.render("Press space bar to fly!", True, WHITE)
         screen.blit(title_text, (title_x, title_y))
         screen.blit(instruction_text, (instruction_x, instruction_y))
 
@@ -131,5 +133,7 @@ while running:
 
     pygame.display.update()
     clock.tick(60)
+#Background sprite
+
 
 pygame.quit()
