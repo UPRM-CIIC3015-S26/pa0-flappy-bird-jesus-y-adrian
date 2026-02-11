@@ -22,6 +22,14 @@ bg_speed = 0.5
 player_image = pygame.image.load("character.png").convert_alpha()
 player_image = pygame.transform.scale(player_image,(60, 60))
 
+#Music
+
+pygame.mixer.init()
+
+effect1 = pygame.mixer.Sound('sounds3/Mario Coin Sound - Sound Effect (HD) - Gaming Sound FX.mp3')
+
+pygame.mixer.music.load('sounds3/Super Mario Bros. Theme Song - ultragamemusic.mp3')
+pygame.mixer.music.play(loops= 20)
 
 # Colors -->
 # NOTE: This is in the RGB (Red, Green, Blue) format
@@ -117,6 +125,7 @@ while running:
             # When you pass through the pipes the score should be updated to the current score + 1. Implement the
             # logic to accomplish this scoring system.
             score = 1 + score
+            effect1.play()
 
         if bird_y > 472.5 or bird_y < 0:
             game_over = True
