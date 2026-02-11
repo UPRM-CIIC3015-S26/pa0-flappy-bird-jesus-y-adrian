@@ -14,14 +14,14 @@ The project is designed as an introductory programming assignment (PA0). Most of
 ## 👥 Team Information
 
 ### Partner #1
-- **Name:**
-- **Student Number:**
-- **Email:**
+- **Name: Jesus G. Colon Fernandez
+- **Student Number:802 25 2597
+- **Email:jesus.colon23@edu.pr
 
 ### Partner #2
-- **Name:**
-- **Student Number:**
-- **Email:**
+- **Name:Adrian J. Borrero
+- **Student Number:802 25 9830
+- **Email:adrian.borrero1@upr.edu
 
 ## ⭐ Bonus Features (Optional)
 List and briefly describe any additional features or enhancements implemented beyond the basic requirements.

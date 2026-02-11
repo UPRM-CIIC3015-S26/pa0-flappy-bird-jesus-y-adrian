@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b89a3c9-18d7-4135-b197-45b68199531a" name="Changes" comment="Completed task by Jesus:task 1, task 2.2, task 3, task 2.1, task 4, task 5, task 6&#10;Title changes&#10;New colors" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;AdrianBorrero&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AdrianBorrero&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/UPRM-CIIC3015-S26/pa0-flappy-bird-jesus-y-adrian.git&quot;,
+    &quot;accountId&quot;: &quot;3d7899a0-c917-4631-86e4-1e8d2ec03bad&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="39JCpSgGOoB9Q16zhWQTF9M3DP6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b89a3c9-18d7-4135-b197-45b68199531a" name="Changes" comment="" />
+      <created>1770404969292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770404969292</updated>
+      <workItem from="1770404970450" duration="634000" />
+      <workItem from="1770405765886" duration="16032000" />
+      <workItem from="1770490440712" duration="11501000" />
+      <workItem from="1770566333891" duration="4907000" />
+      <workItem from="1770592863344" duration="11732000" />
+      <workItem from="1770665219136" duration="607000" />
+      <workItem from="1770668310298" duration="844000" />
+      <workItem from="1770669184638" duration="18000" />
+      <workItem from="1770669258442" duration="112000" />
+      <workItem from="1770669568585" duration="101000" />
+      <workItem from="1770673566822" duration="1674000" />
+      <workItem from="1770675271836" duration="1461000" />
+      <workItem from="1770689053112" duration="17000" />
+      <workItem from="1770692071070" duration="407000" />
+      <workItem from="1770753277347" duration="598000" />
+      <workItem from="1770835965634" duration="224000" />
+    </task>
+    <task id="LOCAL-00001" summary="Completed task 1, task 2.2, task 3">
+      <option name="closed" value="true" />
+      <created>1770410526267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770410526267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task 6">
+      <option name="closed" value="true" />
+      <created>1770476128743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770476128743</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed task by Jesus:task 1, task 2.2, task 3&#10;Title changes&#10;New colors">
+      <option name="closed" value="true" />
+      <created>1770478300335</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770478300335</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed task by Jesus:task 1, task 2.2, task 3, task 2.1, task 4, task 5, task 6&#10;Title changes&#10;New colors">
+      <option name="closed" value="true" />
+      <created>1770692418174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770692418174</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed task 1, task 2.2, task 3" />
+    <MESSAGE value="Task 6" />
+    <MESSAGE value="Completed task by Jesus:task 1, task 2.2, task 3&#10;Title changes&#10;New colors" />
+    <MESSAGE value="Completed task by Jesus:task 1, task 2.2, task 3, task 2.1, task 4, task 5, task 6&#10;Title changes&#10;New colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed task by Jesus:task 1, task 2.2, task 3, task 2.1, task 4, task 5, task 6&#10;Title changes&#10;New colors" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pa0_flappy_bird_jesus_y_adrian$main.coverage" NAME="main Coverage Results" MODIFIED="1770675595136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
